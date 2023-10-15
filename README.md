@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="201" alt="백엔드 개발자가 된 꿈을 꾸는 나" src="https://github.com/darimi100/darimi100/assets/105377694/8ee5e1d6-f8bc-427a-a70c-d8c1fe9fd376">
 
 <!--
 **darimi100/darimi100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
